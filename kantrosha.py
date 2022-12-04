@@ -125,3 +125,5 @@ cir.set_sca(30)
 cir.set_col('blue')
 cir.info()
 cir.area()
+
+print('Ошибок нет (Валера)')
